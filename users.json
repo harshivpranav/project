@@ -1,0 +1,12 @@
+[
+  { "_id": "user0", "username": "user0name", "email": "user0@example.com", "password": "hashed_pass_0", "role": "Admin", "status": "Away", "profilePic": "https://picsum.photos/id/100/200/200", "createdAt": "2025-07-24T06:54:24.599886" },
+  { "_id": "user1", "username": "user1name", "email": "user1@example.com", "password": "hashed_pass_1", "role": "User", "status": "Away", "profilePic": "https://picsum.photos/id/101/200/200", "createdAt": "2025-07-24T06:54:24.599899" },
+  { "_id": "user2", "username": "user2name", "email": "user2@example.com", "password": "hashed_pass_2", "role": "Admin", "status": "Online", "profilePic": "https://picsum.photos/id/102/200/200", "createdAt": "2025-07-24T06:54:24.599904" },
+  { "_id": "user3", "username": "user3name", "email": "user3@example.com", "password": "hashed_pass_3", "role": "Admin", "status": "Busy", "profilePic": "https://picsum.photos/id/103/200/200", "createdAt": "2025-07-24T06:54:24.599908" },
+  { "_id": "user4", "username": "user4name", "email": "user4@example.com", "password": "hashed_pass_4", "role": "Admin", "status": "Offline", "profilePic": "https://picsum.photos/id/104/200/200", "createdAt": "2025-07-24T06:54:24.599911" },
+  { "_id": "user5", "username": "user5name", "email": "user5@example.com", "password": "hashed_pass_5", "role": "Admin", "status": "Away", "profilePic": "https://picsum.photos/id/105/200/200", "createdAt": "2025-07-24T06:54:24.599916" },
+  { "_id": "user6", "username": "user6name", "email": "user6@example.com", "password": "hashed_pass_6", "role": "User", "status": "Online", "profilePic": "https://picsum.photos/id/106/200/200", "createdAt": "2025-07-24T06:54:24.599920" },
+  { "_id": "user7", "username": "user7name", "email": "user7@example.com", "password": "hashed_pass_7", "role": "Moderator", "status": "Offline", "profilePic": "https://picsum.photos/id/107/200/200", "createdAt": "2025-07-24T06:54:24.599925" },
+  { "_id": "user8", "username": "user8name", "email": "user8@example.com", "password": "hashed_pass_8", "role": "User", "status": "Online", "profilePic": "https://picsum.photos/id/108/200/200", "createdAt": "2025-07-24T06:54:24.599929" },
+  { "_id": "user9", "username": "user9name", "email": "user9@example.com", "password": "hashed_pass_9", "role": "Moderator", "status": "Busy", "profilePic": "https://picsum.photos/id/109/200/200", "createdAt": "2025-07-24T06:54:24.599933" }
+]

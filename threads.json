@@ -1,0 +1,12 @@
+[
+  { "_id": "thread0", "mainMessageId": "msg0", "replies": ["msg0", "msg1", "msg2"], "createdBy": "user9", "timestamp": "2025-07-24T06:54:24.600538" },
+  { "_id": "thread1", "mainMessageId": "msg1", "replies": ["msg1", "msg2", "msg3"], "createdBy": "user8", "timestamp": "2025-07-24T06:54:24.600544" },
+  { "_id": "thread2", "mainMessageId": "msg2", "replies": ["msg2", "msg3", "msg4"], "createdBy": "user7", "timestamp": "2025-07-24T06:54:24.600548" },
+  { "_id": "thread3", "mainMessageId": "msg3", "replies": ["msg3", "msg4", "msg5"], "createdBy": "user6", "timestamp": "2025-07-24T06:54:24.600553" },
+  { "_id": "thread4", "mainMessageId": "msg4", "replies": ["msg4", "msg5", "msg6"], "createdBy": "user5", "timestamp": "2025-07-24T06:54:24.600557" },
+  { "_id": "thread5", "mainMessageId": "msg5", "replies": ["msg5", "msg6", "msg7"], "createdBy": "user1", "timestamp": "2025-07-24T06:54:24.600561" },
+  { "_id": "thread6", "mainMessageId": "msg6", "replies": ["msg6", "msg7", "msg8"], "createdBy": "user9", "timestamp": "2025-07-24T06:54:24.600564" },
+  { "_id": "thread7", "mainMessageId": "msg7", "replies": ["msg7", "msg8", "msg9"], "createdBy": "user9", "timestamp": "2025-07-24T06:54:24.600569" },
+  { "_id": "thread8", "mainMessageId": "msg8", "replies": ["msg8", "msg9", "msg0"], "createdBy": "user3", "timestamp": "2025-07-24T06:54:24.600573" },
+  { "_id": "thread9", "mainMessageId": "msg9", "replies": ["msg9", "msg0", "msg1"], "createdBy": "user1", "timestamp": "2025-07-24T06:54:24.600577" }
+]

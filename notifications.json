@@ -1,0 +1,12 @@
+[
+  { "_id": "note0", "userId": "user1", "type": "mention", "message": "Notification message 0", "status": "read", "createdAt": "2025-07-24T06:54:24.600678" },
+  { "_id": "note1", "userId": "user6", "type": "mention", "message": "Notification message 1", "status": "read", "createdAt": "2025-07-24T06:54:24.600691" },
+  { "_id": "note2", "userId": "user7", "type": "invitation", "message": "Notification message 2", "status": "unread", "createdAt": "2025-07-24T06:54:24.600695" },
+  { "_id": "note3", "userId": "user2", "type": "mention", "message": "Notification message 3", "status": "read", "createdAt": "2025-07-24T06:54:24.600699" },
+  { "_id": "note4", "userId": "user4", "type": "message", "message": "Notification message 4", "status": "read", "createdAt": "2025-07-24T06:54:24.600702" },
+  { "_id": "note5", "userId": "user8", "type": "mention", "message": "Notification message 5", "status": "read", "createdAt": "2025-07-24T06:54:24.600706" },
+  { "_id": "note6", "userId": "user0", "type": "invitation", "message": "Notification message 6", "status": "unread", "createdAt": "2025-07-24T06:54:24.600709" },
+  { "_id": "note7", "userId": "user5", "type": "message", "message": "Notification message 7", "status": "read", "createdAt": "2025-07-24T06:54:24.600714" },
+  { "_id": "note8", "userId": "user9", "type": "message", "message": "Notification message 8", "status": "unread", "createdAt": "2025-07-24T06:54:24.600718" },
+  { "_id": "note9", "userId": "user6", "type": "message", "message": "Notification message 9", "status": "read", "createdAt": "2025-07-24T06:54:24.600721" }
+]

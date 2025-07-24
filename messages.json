@@ -1,0 +1,12 @@
+[
+  { "_id": "msg0", "chatRoomId": "room4", "senderId": "user4", "message": "This is message number 0", "mediaUrl": "https://picsum.photos/id/200/300/200", "timestamp": "2025-07-24T06:54:24.600325", "reactions": ["🔥"], "isThread": false, "parentMessageId": null },
+  { "_id": "msg1", "chatRoomId": "room8", "senderId": "user5", "message": "This is message number 1", "mediaUrl": null, "timestamp": "2025-07-24T06:49:24.600342", "reactions": [], "isThread": true, "parentMessageId": null },
+  { "_id": "msg2", "chatRoomId": "room9", "senderId": "user9", "message": "This is message number 2", "mediaUrl": null, "timestamp": "2025-07-24T06:44:24.600350", "reactions": [], "isThread": true, "parentMessageId": null },
+  { "_id": "msg3", "chatRoomId": "room6", "senderId": "user3", "message": "This is message number 3", "mediaUrl": "https://picsum.photos/id/203/300/200", "timestamp": "2025-07-24T06:39:24.600356", "reactions": ["❤️", "👍"], "isThread": false, "parentMessageId": null },
+  { "_id": "msg4", "chatRoomId": "room1", "senderId": "user2", "message": "This is message number 4", "mediaUrl": null, "timestamp": "2025-07-24T06:34:24.600363", "reactions": ["😂", "🔥", "😢"], "isThread": true, "parentMessageId": null },
+  { "_id": "msg5", "chatRoomId": "room1", "senderId": "user4", "message": "This is message number 5", "mediaUrl": null, "timestamp": "2025-07-24T06:29:24.600371", "reactions": ["❤️"], "isThread": true, "parentMessageId": "msg7" },
+  { "_id": "msg6", "chatRoomId": "room6", "senderId": "user5", "message": "This is message number 6", "mediaUrl": "https://picsum.photos/id/206/300/200", "timestamp": "2025-07-24T06:24:24.600380", "reactions": ["😂"], "isThread": true, "parentMessageId": "msg3" },
+  { "_id": "msg7", "chatRoomId": "room7", "senderId": "user4", "message": "This is message number 7", "mediaUrl": null, "timestamp": "2025-07-24T06:19:24.600394", "reactions": ["😂", "🔥", "😂"], "isThread": false, "parentMessageId": "msg0" },
+  { "_id": "msg8", "chatRoomId": "room1", "senderId": "user0", "message": "This is message number 8", "mediaUrl": null, "timestamp": "2025-07-24T06:14:24.600403", "reactions": ["❤️", "😂", "🔥"], "isThread": true, "parentMessageId": "msg6" },
+  { "_id": "msg9", "chatRoomId": "room0", "senderId": "user7", "message": "This is message number 9", "mediaUrl": "https://picsum.photos/id/209/300/200", "timestamp": "2025-07-24T06:09:24.600412", "reactions": ["👍", "😂", "😮"], "isThread": true, "parentMessageId": "msg5" }
+]
